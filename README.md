@@ -25,3 +25,7 @@ streamlit run app.py
 docker-compose build
 docker-compose up
 ```
+
+⚠️ Note: Dataset file is not included due to size. Please download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Save as: data/creditcard.csv
