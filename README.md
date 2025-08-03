@@ -12,7 +12,7 @@ This project is an end-to-end machine learning pipeline for detecting fraudulent
 
 ##  Run Locally
 ```bash
-git clone https://github.com/your-username/xai-fraud-detection.git
+git clone https://github.com/BibhansuBallhavaPrusty/xai-fraud-detection.git
 cd xai-fraud-detection
 python -m venv venv
 source venv/bin/activate
